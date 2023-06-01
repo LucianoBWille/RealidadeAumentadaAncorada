@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Rexona03" size="1.000000 0.781737" />
+    <ImageTarget name="Rexona02" size="1.000000 0.735931" />
+    <ImageTarget name="Rexona01" size="1.000000 0.800499" />
+  </Tracking>
+</QCARConfig>
